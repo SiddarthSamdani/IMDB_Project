@@ -1,0 +1,2 @@
+The aim of this project is to Classify the reviews as positive or negative based on the reviews provided by the users.
+The dataset is available on Kaggle.com . This dataset is scrapped from IMDB website and contains 50000 positive and negative reviews.
